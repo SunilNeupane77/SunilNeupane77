@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunilneupane77" alt="sunilneupane77" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sunilneupane" target="blank"><img src="https://img.shields.io/twitter/follow/sunilneupane?logo=twitter&style=for-the-badge" alt="sunilneupane" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sunilneupane778" target="blank"><img src="https://img.shields.io/twitter/follow/sunilneupane?logo=twitter&style=for-the-badge" alt="sunilneupane" /></a> </p>
 
 - 🔭 I’m currently working on **some backend projects**
 
