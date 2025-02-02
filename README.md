@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/SunilNeupane77?label=Follow&style=social)](https://github.com/SunilNeupane77)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sunil-neupane77/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SunilNeupane77?style=social)](https://twitter.com/SunilNeupane77)
-[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://sunilneupane.com)
+[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://sunil-app.vercel.app)
 
 I'm a passionate *Full-Stack Developer* with a love for building scalable, user-friendly, and innovative web applications. I enjoy working with modern technologies and solving real-world problems through code.
 
@@ -35,33 +35,7 @@ I'm a passionate *Full-Stack Developer* with a love for building scalable, user-
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
 
----
 
-### 🚀 Featured Projects
-
-Here are some of my favorite projects I've built:
-
-1. *E-commerce Platform*  
-   - A full-stack e-commerce app with product listings, cart, and payment integration.  
-   - *Tech Stack*: Next.js, Stripe, Tailwind CSS, MongoDB.  
-   - [Live Demo](https://ecommerce-sunil.vercel.app) | [GitHub Repo](https://github.com/SunilNeupane77/ecommerce-platform)
-
-2. *Blog with CMS*  
-   - A blog platform with markdown support and user authentication.  
-   - *Tech Stack*: Next.js, Markdown, Firebase.  
-   - [Live Demo](https://blog-sunil.vercel.app) | [GitHub Repo](https://github.com/SunilNeupane77/blog-platform)
-
-3. *Job Board*  
-   - A job listing platform with search and filtering functionality.  
-   - *Tech Stack*: Next.js, PostgreSQL, Tailwind CSS.  
-   - [Live Demo](https://jobs-sunil.vercel.app) | [GitHub Repo](https://github.com/SunilNeupane77/job-board)
-
-4. *Social Media App*  
-   - A social media platform with user profiles, posts, and likes.  
-   - *Tech Stack*: Next.js, Firebase, NextAuth.js.  
-   - [Live Demo](https://social-sunil.vercel.app) | [GitHub Repo](https://github.com/SunilNeupane77/social-media-app)
-
----
 
 ### 📈 GitHub Stats
 
