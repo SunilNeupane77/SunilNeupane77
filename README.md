@@ -1,6 +1,6 @@
-# ✨ Hello World! I'm Sunil Neupane ✨
+#  Hello World! I'm Sunil Neupane 
 
-### **Full-Stack Developer | Tech Enthusiast | Problem Solver**
+### **| Tech Enthusiast |**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](https://sunil-app.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-neupane77/)
