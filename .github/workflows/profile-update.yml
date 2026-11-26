@@ -1,0 +1,62 @@
+name: Advanced Profile Update
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    name: Contribution Snake
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake (dark + light)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  3d-calendar:
+    name: 3D Contribution Calendar
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: |
+            {
+              "githubUserName": "${{ github.repository_owner }}",
+              "backgroundColor": "#0f2027",
+              "foregroundColor": "#00e5ff",
+              "dotColor": "#00e5ff",
+              "lineColor": "#203a43",
+              "calendarMode": "normal",
+              "maxLevel": 4
+            }
+
+      - name: Commit 3D graph
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: profile-3d-contrib
+          message: "chore: update 3D contribution graph [skip ci]"
+          default_author: github_actions
