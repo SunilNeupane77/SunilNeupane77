@@ -1,67 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=230&text=Sunil%20Neupane&fontSize=58&fontColor=00e5ff&animation=twinkling&fontAlignY=45" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=230&text=Sunil%20Neupane&fontSize=58&fontColor=00e5ff&animation=twinkling&fontAlignY=42&desc=Software%20Engineering%20%7C%20Quality%20Assurance%20%7C%20Test%20Automation&descAlignY=66&descColor=b2ebf2&descSize=16" width="100%" alt="Header Banner" />
 
 <a href="https://github.com/SunilNeupane77">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=520&lines=Building+reliable+software;Breaking+things+to+make+them+better;Test+%E2%86%92+Automate+%E2%86%92+Ship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=620&lines=Building+reliable%2C+scalable+software;Breaking+systems+to+harden+production;Test+%E2%86%92+Automate+%E2%86%92+Observe+%E2%86%92+Ship;Shift-left+quality+and+deterministic+releases" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<a href="https://sunilneupane77.com.np"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=00e5ff" /></a>
-<a href="https://www.linkedin.com/in/sunil-neupane77/"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=00e5ff" /></a>
-<a href="mailto:sunilneupane957@gmail.com"><img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=00e5ff" /></a>
+<a href="https://sunilneupane77.com.np"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=00e5ff" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/sunil-neupane77/"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn" /></a>
+<a href="mailto:sunilneupane957@gmail.com"><img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=00e5ff" alt="Email" /></a>
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/SunilNeupane77?style=flat-square&logo=github&color=0f2027&labelColor=203a43&logoColor=00e5ff" />
-<img src="https://komarev.com/ghpvc/?username=SunilNeupane77&style=flat-square&color=00b8d4&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/SunilNeupane77?style=flat-square&logo=github&color=0f2027&labelColor=203a43&logoColor=00e5ff" alt="Followers" />
+<img src="https://img.shields.io/github/stars/SunilNeupane77?style=flat-square&logo=github&color=0f2027&labelColor=203a43&logoColor=00e5ff" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=SunilNeupane77&style=flat-square&color=00b8d4&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
 <br/>
+
+## `> system_profile`
 
 ```bash
-~ $ whoami
-sunil_neupane
+sunil@dev:~$ ./inspect-profile.sh --verbose
 
-~ $ cat pipeline.txt
- plan ──▶ code ──▶ test ──▶ automate ──▶ ship
-                     ▲                    │
-                     └──── feedback ◀─────┘
-```
+[IDENTITY]
+  user        : sunil_neupane
+  role        : Software Engineer & QA Automation Specialist
+  focus       : Full-Stack Architecture | API Validation | CI/CD Quality Gates
 
-<br/>
+[DELIVERY PIPELINE]
+  ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐
+  │   PLAN   │───▶│   CODE   │───▶│   TEST   │───▶│ AUTOMATE │───▶│   SHIP   │
+  └──────────┘    └──────────┘    └────┬─────┘    └──────────┘    └────┬─────┘
+                                       ▲                               │
+                                       └────────── FEEDBACK ◀──────────┘
 
-## `> stack`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,py,docker,git&theme=dark" />
-
-</div>
-
-<br/>
-
-## `> testing`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/QA-0f2027?style=flat-square&logo=checkmarx&logoColor=00e5ff" />
-<img src="https://img.shields.io/badge/Bug%20Reporting-0f2027?style=flat-square&logo=bugatti&logoColor=00e5ff" />
-<img src="https://img.shields.io/badge/API%20Testing-0f2027?style=flat-square&logo=postman&logoColor=00e5ff" />
-<img src="https://img.shields.io/badge/Test%20Automation-0f2027?style=flat-square&logo=githubactions&logoColor=00e5ff" />
-
-</div>
-
-<br/>
-
-## `> activity`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SunilNeupane77/SunilNeupane77/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
+[CORE DIRECTIVES]
+  1. Treat quality as an architectural property, not a post-release phase.
+  2. Automate repetitive regression; reserve manual effort for exploratory edge cases.
+  3. Ship observable, reproducible, and maintainable systems.
